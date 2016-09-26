@@ -1,6 +1,6 @@
 /*
     * Het doel van dit programma is om een BSA Advies te berekenen d.m.v. je cijfers die je behaald.
-    * @author Harwinder Singh Kaur
+    * @author ツ
  */
 package bsamonitor;
 
