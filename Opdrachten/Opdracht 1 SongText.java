@@ -1,7 +1,6 @@
 /*
  * Het doel van dit programma is om een SongText uit te printen
  * @author ツ
- * 
  */
 package songtext;
 
@@ -21,9 +20,6 @@ public class Songtext {
         }
     }
 
-    /**
-     * @param args the command line arguments Hier beneden zet ik de songtext :D
-     */
     public static void main(String[] args) {
         System.out.println("She gets on with life as a robber,");
         Songtext.pauze();
