@@ -1,6 +1,6 @@
 /*
  * Het doel van dit programma is om een Verkoopprijs Met en zonder BTW te berekenen D.M.V. de winstpercentage en inkoopprijs
- * @author Harwinder Singh Kaur
+ * @author 	ツ
  */
 package verkoopprijsopdracht;
 import java.util.Scanner; 
