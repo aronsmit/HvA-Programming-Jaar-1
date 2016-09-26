@@ -1,6 +1,6 @@
 /*
  * Het doel van dit programma is om een SongText uit te printen
- * @author Harwinder
+ * @author ツ
  * 
  */
 package songtext;
